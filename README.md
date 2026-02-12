@@ -69,10 +69,9 @@
 <!--- trophy (start) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ElPinguinoXD&theme=aura&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
+    <img src="[https://github-profile-trophy.vercel.app/?username=ElPinguinoXD&theme=darkhub&column=-1](https://github-profile-trophy.vercel.app/?username=ElPinguinoXD&theme=radical)" />
   </a>
 </div>
-
 ---
 
 <!-- Technologies -->
