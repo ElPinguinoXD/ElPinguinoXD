@@ -89,7 +89,7 @@
 <div align="center">
   <h2>📫 Connect With Me</h2>
   <p>
-    <a href="https://www.linkedin.com/in/felix-manuel-sanchez-13a600370/" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" width="50" /></a>
+    <a href="https://www.linkedin.com/in/felix-manuel-sanchez-de-la-cruz-13a600370/" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" width="50" /></a>
     <a href="https://discord.com/users/elpinguinoxd." target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" width="50" /></a>
     <a href="https://www.youtube.com/@pengx1925" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" /></a>
   </p>
