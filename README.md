@@ -21,6 +21,8 @@
 ### 👨‍💻 About Me
 🎓 Tecnólogo en Desarrollo de Software, ITLA – Graduado con honores, 21 de mayo de 2025
 
+Actualmente estudiando la Ingenieria de software, UNICARIBE
+
 🛠️ Experiencia en JavaScript, C#, Python, PHP, HTML, CSS, Mysql
 
 💻 Técnico en computadoras con más de 3 años de experiencia en soporte técnico
